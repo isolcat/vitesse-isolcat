@@ -10,10 +10,10 @@ const go = () => {
 
 <template>
   <div>
-    <div i-carbon-campsite text-4xl inline-block />
+    <div i-carbon:sprout text-4xl inline-block />
     <p>
-      <a rel="noreferrer" href="https://github.com/antfu/vitesse-lite" target="_blank">
-        Vitesse Lite
+      <a rel="noreferrer" href="https://github.com/isolcat/vitesse-isolcat" target="_blank">
+        Vitesse isolcat
       </a>
     </p>
     <p>
